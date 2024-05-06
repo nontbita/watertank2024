@@ -1,0 +1,5 @@
+flutter_icons:
+  android: "launcher_icon" # Base Android icon name (without extension)
+  image_path: "assets/watertank2024q2.png"  # Path to your PNG icon
+  adaptive_icon_background: "#ffffff"
+  adaptive_icon_foreground: "assets/watertank2024q2.png"
